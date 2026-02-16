@@ -22,6 +22,8 @@
 
 <h3 align="left">About Me 👨‍💻<br>Hi, I’m Asel Karunathilaka, a 4th-year IT undergraduate at SLIIT with a strong interest in cloud computing, artificial intelligence, and DevOps. I’m passionate about continuously learning, building projects, and developing my skills to grow into a cloud-focused technology professional.</h3>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 ###
 
 <p align="left">💼 I’m …<br>A 4th-year IT undergraduate at SLIIT.<br><br>📚 I’m currently learning …<br>JavaScript and DevOps.<br><br>⚡ I’m an avid movie lover and enjoy watching sports like UFC and NBA.</p>
