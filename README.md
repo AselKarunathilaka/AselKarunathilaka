@@ -64,14 +64,13 @@
   <a href="https://github.com/AselKarunathilaka">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AselKarunathilaka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  
-<a href="https://github.com/AselKarunathilaka">
+  <a href="https://github.com/AselKarunathilaka">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AselKarunathilaka&layout=compact&langs_count=8&theme=algolia"/>
   </a>
+</p>
 
-###
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AselKarunathilaka&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=AselKarunathilaka&theme=nightowl&hide_border=true"/>
 </p>
 
 ###
