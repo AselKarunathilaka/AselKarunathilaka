@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">💼 I’m …<br>A 4th-year IT undergraduate at SLIIT.<br><br>📚 I’m currently learning …<br>JavaScript and DevOps.<br><br>⚡ I’m an avid movie lover and enjoy watching sports like UFC and NBA.</p>
+<p align="left">📚 I’m currently learning …<br>JavaScript and DevOps.<br><br>⚡ I’m an avid movie lover and enjoy watching sports like UFC and NBA.</p>
 
 ###
 
