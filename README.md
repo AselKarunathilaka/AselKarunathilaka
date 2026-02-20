@@ -29,7 +29,7 @@
 <p align="left">📚 I’m currently learning …<br>JavaScript and DevOps.<br><br>⚡ I’m an avid movie lover and enjoy watching sports like UFC and NBA.</p>
 
 ###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
